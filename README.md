@@ -1,2 +1,2 @@
-# Self-Driving-Car
+# Self Driving Car
 Self driving car demonstration using feedforward neural network.
